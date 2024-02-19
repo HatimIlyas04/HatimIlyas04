@@ -1,4 +1,4 @@
-# <span style="font-size:2em;">Hi there, I'm Hatim Ilyas! 👋</span>
+# <span style="font-size:4em;">Hi there, I'm Hatim Ilyas! 👋</span>
 
 I'm a passionate developer who loves building cool stuff with code. Here's a bit about me:
 
