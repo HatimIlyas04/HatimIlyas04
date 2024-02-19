@@ -1,4 +1,5 @@
-### Hi there, I'm Hatim Ilyas! 👋
+# <span style="font-size:2em;">Hi there, I'm Hatim Ilyas! 👋</span>
+
 I'm a passionate developer who loves building cool stuff with code. Here's a bit about me:
 
 🔭 I’m currently working on building awesome web applications.
