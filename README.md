@@ -1,9 +1,9 @@
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
-<h1 align="center">Hi there, I am Hatim Ilyas<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi there, I am Hatim Ilyas<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>   <h3 align="center">A passionate Full Stack Developer from CasaBlanca 🌆</h3>
 
-   <h3 align="center">A passionate Full Stack Developer from CasaBlanca 🌆</h3>
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
