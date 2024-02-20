@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Hatim Ilyas</a>!</h1>
 <h3 align="center">A passionate Full Stack Developer from Casa Blanca 🌆</h3>
 
-
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -28,11 +26,8 @@
         <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/hatimIlyas04">
         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    
-   
     <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ilyas_hatim_10">
         <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-   
     <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCuXjL678bH6REXp0a66C75A">
         <img src="https://img.icons8.com/doodle/40/000000/youtube--v1.png" ></a>
     <a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
