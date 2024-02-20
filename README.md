@@ -2,13 +2,11 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <p align="center">
-  <img src="https://media.giphy.com/media/IhO5Kk5sPEOPshs4n4/giphy.gif" width="40%">
   <br />
   <br />
   <samp>
    <!-- I'm Hatim :wave: -->
     <a href="https://dev.to/iamirulofficial">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Amirul Islam's DEV Profile" height="30" width="30">
 </a>
     <br />
     
