@@ -1,7 +1,7 @@
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
-   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Hatim%2C+Ilyas.)
+<h1 align="center">Hi there, I am Hatim Ilyas 💗<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
     </div><h3 align="center">A passionate Full Stack Developer from CasaBlanca 🌆</h3>
 
@@ -20,6 +20,13 @@
 - ⚡ Fun fact: I love to explore new places and try different cuisines!
 
 <br>
+
+<h1>GitHub Stats 📊</h1>
+ 
+![Mei's github stats](https://github-readme-stats.vercel.app/api?username=meisun0107&show_icons=true&theme=dracula) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meisun0107&theme=dracula)](https://git.io/streak-stats)  
+
+<hr>
 <h3 align="center">Connect with me 🤝 </h3>
 
 <p align="center">
