@@ -1,16 +1,8 @@
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
-    <p align="center">
-  <br />
-  <br />
-  <samp>
-   <!-- I'm Hatim :wave: -->
-    <a href="https://dev.to/iamirulofficial">
-</a>
-    <br />
-    
-</p> 
+   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Hatim%2C+Ilyas.)
+
     </div><h3 align="center">A passionate Full Stack Developer from CasaBlanca 🌆</h3>
 
 <a target="_blank" align="center">
