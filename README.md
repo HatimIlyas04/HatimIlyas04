@@ -10,8 +10,8 @@
 	
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+Hatim Ilyas</a></h1>
+<h3 align="center">A passionate  Full stuck developer from Casa Blanca &#127470;&#127475</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -24,24 +24,17 @@ Saurabh</a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 🔭 I’m currently working on building awesome web applications.
+- 🌱 I’m currently learning new technologies to expand my skill set.
+- 👯 I’m looking to collaborate on open source projects and innovative ideas.
+- 💬 Ask me about anything related to web development and programming.
+- 📫 You can reach me via email at [your-email@example.com](mailto:your-email@example.com).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to explore new places and try different cuisines!
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -68,17 +61,6 @@ Saurabh</a></h1>
 
 </p>
 
-### Blogs posts
 
-<!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
 
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
