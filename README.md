@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on open source projects and innovative ideas.<br/>
 - 💬 Ask me about anything related to web development and programming.<br/>
 - 📫 You can reach me via email at [hatimilyass766@example.com](HatimILyass766@example.com).<br/>
-- 😄 Pronouns: He/Him
+## - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to explore new places and try different cuisines!
 
 <br>
