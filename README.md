@@ -10,6 +10,9 @@
 
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 I’m currently working on building awesome web applications.<br/>
 - 🌱 I’m currently learning new technologies to expand my skill set.<br/>
@@ -19,9 +22,7 @@
 - ⚡ Fun fact: I love to explore new places and try different cuisines!
 
 <br>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 
 <h1>GitHub Stats 📊</h1>
  
