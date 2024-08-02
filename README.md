@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning new technologies to expand my skill set.<br/>
 - 👯 I’m looking to collaborate on open source projects and innovative ideas.<br/>
 - 💬 Ask me about anything related to web development and programming.<br/>
-- 📫 You can reach me via email at [hatimilyass766@example.com](HatimILyass766@example.com).<br/>
+- 📫 You can reach me via email at [hatimilyass766@example.com](HatimILyass766@gmail.com).<br/>
 - ⚡ Fun fact: I love to explore new places and try different cuisines!
 
 <br>
